@@ -90,16 +90,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-## 📸 Screenshots
-
-> _Add screenshots or GIFs of the robot and web UI here to help users visualize the project._
-
----
-
-## 📬 Contact
-
-If you have questions, suggestions, or encounter issues, feel free to open an issue or reach out via GitHub.
-
----
-
 Enjoy building and expanding your ESP32 robotic projects! 🤖🚀
