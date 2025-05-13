@@ -1,6 +1,6 @@
 # ESP32-RoboDash 🚗📶
 A Wi-Fi controlled robot powered by the ESP32 microcontroller. This project features real-time motion control via a web interface, adjustable speed and obstacle stop distance using sliders.
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7325943913406521344?compact=1" height="399" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7325943913406521344?compact=1
 
 ## 🌟 Features
 
